@@ -1,2 +1,2 @@
 # python-learning
-# What the sigma
+# Ayyy
